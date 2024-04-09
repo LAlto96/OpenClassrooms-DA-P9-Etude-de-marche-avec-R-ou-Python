@@ -24,13 +24,13 @@ Votre manager, Patrick, vous briefe par un e-mail :
 >
 > Voici ce que j’attends de toi :
 >
->     -un notebook ou fichier R contenant la préparation, le nettoyage et l’analyse exploratoire des données ;
->     -un notebook ou fichier R contenant le/les clusterings effectués, et les différentes visualisations associées ;
+> - un notebook ou fichier R contenant la préparation, le nettoyage et l’analyse exploratoire des données ;
+> - un notebook ou fichier R contenant le/les clusterings effectués, et les différentes visualisations associées ;
 >
->     -une présentation qui récapitule les points suivants :
->         -le contexte du projet de data analyse ;
->         -votre démarche (sans entrer dans les détails mathématiques, mais en vulgarisant les sujets abordés) ;
->         -vos résultats et recommandations.
+> - une présentation qui récapitule les points suivants :
+> - le contexte du projet de data analyse ;
+> - votre démarche (sans entrer dans les détails mathématiques, mais en vulgarisant les sujets abordés) ;
+> - vos résultats et recommandations.
 >
 >
 >
