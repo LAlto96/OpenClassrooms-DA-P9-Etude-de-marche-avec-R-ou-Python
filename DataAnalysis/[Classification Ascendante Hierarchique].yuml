@@ -1,0 +1,5 @@
+// {type:class}
+// {generate:true}
+[CAH|+df;+columns;+Z;+df_mean_std;+clusters|scale(scalertype);dendogramme(ax,title,xlabel,ylabel,labelsize);clusters(n_clusters)]
+[KMEANS|+df;+columns;+clusters|plot_inertial(ax,title,k_max);plot_silhouette(ax,k_list);kmean_choose(n_clusters)]
+[ACP|+df;+columns;+n_components;+pca;+X;+X_scaled;+X_scaled_verif;+pca;+pcs|scale(scalertype);pca_evr();correlation_circle(ax,x_y);display_factorial_planes(ax,x_y,labels,clusters,alpha,marker)]

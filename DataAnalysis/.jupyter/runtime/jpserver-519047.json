@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 519047,
+  "port": 8888,
+  "root_dir": "/home/desktop/Documents/DataAnalysis/OpenClassrooms/P9/DataAnalysis",
+  "secure": false,
+  "sock": "",
+  "token": "b731a010f8f63c2887779a4fe5147c9c03748eb001c29cef",
+  "url": "http://localhost:8888/",
+  "version": "2.4.0"
+}
