@@ -41,3 +41,9 @@ Votre manager, Patrick, vous briefe par un e-mail :
 > Pièce jointe :
 >
 > [Données New Food Balances (FAO)](DAN-P9-data.zip)
+
+
+# Travaux
+- [Nettoyage des données](DataAnalysis/DataClean.ipynb)
+- [Analyse de données](DataAnalysis/dataanalysis.ipynb)
+- [Support Présentation](Présentation1.pptx)
