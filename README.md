@@ -28,9 +28,9 @@ Votre manager, Patrick, vous briefe par un e-mail :
 > - un notebook ou fichier R contenant le/les clusterings effectués, et les différentes visualisations associées ;
 >
 > - une présentation qui récapitule les points suivants :
-> -- le contexte du projet de data analyse ;
-> -- votre démarche (sans entrer dans les détails mathématiques, mais en vulgarisant les sujets abordés) ;
-> -- vos résultats et recommandations.
+>     - le contexte du projet de data analyse ;
+>     - votre démarche (sans entrer dans les détails mathématiques, mais en vulgarisant les sujets abordés) ;
+>     - vos résultats et recommandations.
 >
 >
 >
