@@ -6,9 +6,9 @@ L'international, oui, mais pour l'instant, le champ des possibles est bien large
 
 Votre manager, Patrick, vous briefe par un e-mail :
 
-> De : Patrick
-> À : Moi
-> Objet : Lancement mission data international
+> De : Patrick  
+> À : Moi  
+> Objet : Lancement mission data international__
 >
 > Salut !
 >
